@@ -1,0 +1,22 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Fauna+One&family=Karla:wght@300&family=Lora&family=Merriweather&family=Montserrat:wght@300&family=Playfair+Display:wght@500&family=Raleway&display=swap') ;
+
+@import url("components/container.css");
+@import url("components/photo.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 18px;
+}
+
+h1, h2, h3{
+	font-family:'Playfair Display', serif;
+}
+
+a{
+	font-family: 'Montserrat', sans-serif;
+}
